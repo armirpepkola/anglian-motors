@@ -27,8 +27,8 @@ import WowProvider from "@/provider/WowProvider";
 import Preloader from "@/components/Preloader";
 
 export const metadata = {
-  title: "Charger- EV Charging Station React Next Js Template",
-  description: "Charger- EV Charging Station React Next Js Template",
+  title: "Anglian Motors - Car Sales, Part Exchange & Recovery",
+  description: "Buy and sell used cars in the UK with Anglian Motors. Find your perfect car today!",
 };
 
 export default function RootLayout({ children }) {
